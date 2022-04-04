@@ -14,6 +14,7 @@ h1 {
 
 h2 {
     color:rgb(143, 140, 140);
+    margin-bottom: 10px;
 }
 
 article {
@@ -59,10 +60,19 @@ mark {
 
 #finale1 {
     background-image: url(../img/monitor.jpg);
+    height: 200px;
+    background-repeat: no-repeat;
+    font-size: 25px;
+    position: relative;
 }
 
 #finale2 {
     background-image: url(../img/graph.jpg);
+    height: 200px;
+    background-repeat: no-repeat;
+    font-size: 25px;
+    position: relative;
+    margin-top: 10px;
 }
 
 .testa {
@@ -81,4 +91,19 @@ mark {
 
 .white-text {
     color: white;
+    font-weight: bold;
+}
+
+.lorem {
+    position: absolute;
+    top: 10px;
+    left: 10px;
+}
+
+.intestazione {
+    background-color: rgb(105, 150, 228);
+}
+
+.azzurro {
+    background-color: rgb(32, 251, 251);
 }
