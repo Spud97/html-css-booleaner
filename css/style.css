@@ -3,6 +3,10 @@
     margin: 0;
 }
 
+h1 {
+    font-size: 57px;
+}
+
 #logo {
     height: 70px;
     margin-top: 70px;
@@ -10,9 +14,26 @@
     margin-bottom: 15px;
 }
 
-.testa {
-    background-size: contain;
-    background-color: rgb(70, 168, 243);
-    background-image: url("../img/pattern.png"); 
+#titolo {
+    margin-top: 20px;
+    margin-left: 10px;
 }
 
+#titolo p {
+    font-size: 28px;
+    color: rgb(143, 140, 140);
+}
+
+#data {
+    font-size: 20px;
+}
+
+.testa {
+    background-size: contain;
+    background-color: rgb(18, 145, 241);
+    background-image: url("../img/pattern.png");
+}
+
+.blue-text {
+    color: rgb(0, 242, 255);
+}
