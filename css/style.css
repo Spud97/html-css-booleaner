@@ -5,10 +5,31 @@
 
 main {
     margin-left: 10px;
+    margin-right: 10px;
 }
 
 h1 {
     font-size: 55px;
+}
+
+h2 {
+    color:rgb(143, 140, 140);
+}
+
+article {
+    margin-top: 30px;
+}
+
+article ul {
+    margin-left: -10px;
+}
+
+article li {
+    font-size: 28px;
+}
+
+mark {
+    background-color: yellow;
 }
 
 #logo {
@@ -36,6 +57,14 @@ h1 {
     font-size: 20px;
 }
 
+#finale1 {
+    background-image: url(../img/monitor.jpg);
+}
+
+#finale2 {
+    background-image: url(../img/graph.jpg);
+}
+
 .testa {
     background-size: contain;
     background-color: rgb(18, 145, 241);
@@ -44,4 +73,12 @@ h1 {
 
 .blue-text {
     color: rgb(0, 242, 255);
+}
+
+.main-text {
+    font-size: 24px;
+}
+
+.white-text {
+    color: white;
 }
