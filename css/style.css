@@ -18,7 +18,7 @@ h2 {
 }
 
 article {
-    margin-top: 30px;
+    margin-top: 40px;
 }
 
 article ul {
@@ -106,4 +106,8 @@ mark {
 
 .azzurro {
     background-color: rgb(32, 251, 251);
+}
+
+.casella {
+    width: 300px;
 }
