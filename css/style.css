@@ -76,7 +76,7 @@ mark {
 }
 
 .testa {
-    background-size: contain;
+    background-size: 630px;
     background-color: rgb(18, 145, 241);
     background-image: url("../img/pattern.png");
 }
